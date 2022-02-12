@@ -1,2 +1,2 @@
 # PokemonGO
-Pokemon GO with Vuforia
+Pokemon - pokedex
